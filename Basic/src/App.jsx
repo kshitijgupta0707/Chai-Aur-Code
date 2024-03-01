@@ -3,8 +3,15 @@ import Chai from './chotichai.jsx'
 
 
 function App() {
+  const name = "Kshitij";
   return (
-     <Chai />
+    <>
+      <Chai />
+      <div>
+        heelllo {name}
+      </div>
+    </>
+   
   )
 }
 
