@@ -1,0 +1,25 @@
+
+.header {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.middle {
+  background-color: wheat;
+  width: 40%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.right {
+  background-color: red;
+  display: flex;
+  width: 30%;
+  justify-content: space-evenly;
+}
+.left {
+  display: flex;
+  justify-content: center;
+  width: 10%;
+  background-color: grey;
+}
